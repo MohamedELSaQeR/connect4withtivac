@@ -7,6 +7,6 @@ using Tiva C and Nokia5110 BlueScreen
 https://www.youtube.com/watch?v=VsD9Yycmiw8
 
 # Team
-Mohamed Saqer
-Marwa yasser
-Nansy Ahmed
+  - Mohamed Saqer
+  - Marwa yasser
+  - Nansy Ahmed
